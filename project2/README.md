@@ -8,7 +8,7 @@ Hamid Suha: 📫 hsuha@csu.fullerton.edu
 
 Dylan Gunter: 📫 dgunter@csu.fullerton.edu
 
-Gerard Lagos: 📫
+Gerard Lagos: 📫 gerardlagos01@csu.fullerton.edu 
 
 Instructor:
 
