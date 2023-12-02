@@ -6,9 +6,9 @@ Group members:
 
 Hamid Suha: 📫 hsuha@csu.fullerton.edu
 
-Dylan Gunter
+Dylan Gunter: 📫 dgunter@csu.fullerton.edu
 
-Gerard Lagos
+Gerard Lagos: 📫
 
 Instructor:
 
