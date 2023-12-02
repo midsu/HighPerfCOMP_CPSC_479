@@ -6,6 +6,10 @@ Group members:
 
 Hamid Suha: 📫 hsuha@csu.fullerton.edu
 
+Dylan Gunter
+
+Gerard Lagos
+
 Instructor:
 
 Doina Bein: 📫 dbein@fullerton.edu 
