@@ -8,7 +8,7 @@ Hamid Suha: 📫 hsuha@csu.fullerton.edu
 
 Dylan Gunter: 📫 dgunter@csu.fullerton.edu
 
-Gerard Lagos: 📫
+Gerard Lagos: 📫 gerardlagos01@csu.fullerton.edu
 
 Instructor:
 
@@ -17,7 +17,7 @@ Doina Bein: 📫 dbein@fullerton.edu
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## project-2
 
-For this project I chose a topic covered in class or similar to the topics listed below and designed an algorithm that uses MPI/openMP/CUDA to solve a data science problem. 
+For this project we chose a topic covered in class or similar to the topics listed below and designed an algorithm that uses MPI/openMP/CUDA to solve a data science problem. 
 
 - [x] Parallel sorting
 - [ ] Some data clustering techniques
