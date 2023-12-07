@@ -19,7 +19,7 @@ Doina Bein: 📫 dbein@fullerton.edu
 
 For this project we chose a topic covered in class or similar to the topics listed below and designed an algorithm that uses MPI/openMP/CUDA to solve a data science problem. 
 
-- [x] Parallel sorting <-
+- [x] Parallel sorting 
 - [ ] Some data clustering techniques
 - [ ] Supervised learning 
 - [ ] Nearest neighbor classification
